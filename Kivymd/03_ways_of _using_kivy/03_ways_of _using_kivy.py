@@ -4,7 +4,7 @@ from kivy.lang.builder import Builder
 class MyApp(MDApp):
 	def build(self):
 		
-		self.screen = Builder.load_file('D:/Working_dir/Programming/Python/KivyMD/03_ways_of _using_kivy.kv')
+		self.screen = Builder.load_file('03_ways_of _using_kivy.kv')
 
 		return self.screen
 
