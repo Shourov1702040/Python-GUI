@@ -1,4 +1,6 @@
-Playlist name: Android app development with Python KivyMD (Bangla)
+
+
+##Playlist name: Android app development with Python KivyMD (Bangla)
 
     Link: https://www.youtube.com/playlist?list=PLSf33O1qAKCeen-tjYQPxKNODHKdtCVU3
 
@@ -8,5 +10,12 @@ Componants:
 03. More than 2 complete Projects included  
 
 For any help
-  Gmail: shourochstu17@gmail.com
+  Gmail: shourovhstu17@gmail.com
   Facebook: https://www.facebook.com/Shourov40/
+
+
+
+
+
+
+
