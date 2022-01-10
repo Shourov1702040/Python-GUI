@@ -4,7 +4,7 @@ from kivy.lang.builder import Builder
 class MyApp(MDApp):
 	def build(self):
 		
-		self.screen = Builder.load_file("D:/Working_dir/Programming/Python/KivyMD/04_Layouts.kv")
+		self.screen = Builder.load_file("04_Layouts.kv")
 
 		return self.screen
 
